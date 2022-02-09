@@ -1,2 +1,3 @@
-# 5ghome.github.io
+# shadykingofficial.github.io
+
 个人静态博客
